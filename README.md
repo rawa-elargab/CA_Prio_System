@@ -726,31 +726,6 @@ The project produced:
 - Salesforce integration concept
 - Recommendations for deployment and monitoring
 
----
-
-# Repository Structure
-
-```text
-CA_Prio_System/
-│
-├── README.md
-├── index.html
-│
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── analysis/
-│   ├── feature-engineering.md
-│   ├── signal-validation.md
-│   └── scoring-methodology.md
-│
-└── documentation/
-    └── model-governance.md
-```
-
----
 
 # Data Confidentiality
 
@@ -765,13 +740,6 @@ Any publicly available version should use:
 
 Confidential customer information, internal identifiers, credentials and proprietary datasets should not be included.
 
----
-
-## Author
-
-**Rawa El Argab**
-
-Business Data Analyst / Analytics Product Professional
 
 Areas demonstrated in this project:
 
